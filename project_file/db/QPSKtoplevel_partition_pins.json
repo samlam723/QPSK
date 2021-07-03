@@ -1,0 +1,17 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "SDI",
+					"strict" : false
+				},
+				{
+					"name" : "SYNC",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
